@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Arts Vista</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_event_detail">EventDetail</string>
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="title_activity_buy_ticket">BuyTicket</string>
+    <string name="tos1">Welcome to Arts Vista. Arts Vista ("Arts Vista"), owned and operated by Arts Vista Productions Inc.
+        ("us" "we" or "our"), is an editorially selective, curated website for all arts enthusiasts and cultural tourists.
+        It showcases and promotes what we at Arts Vista consider the most exciting performances, people and places that are
+        creating and presenting the very best and most interesting events and festivals of music, dance, theatre, opera,
+        independent film, and the fine arts (e.g. painting, sculpture and photography) in selected cities around the world.
+        By accessing or using the Arts Vista website, or any applications (including mobile applications) made available by Arts Vista
+        (collectively, “Arts Vista”, ”Arts Vista service” or the “Service”), however accessed, you agree to be bound by these
+        terms of use ("Terms of Use"). If you do not agree to these Terms of Use, you should not use Arts Vista.
+        ARBITRATION NOTICE: EXCEPT IF YOU OPT-OUT AND EXCEPT FOR CERTAIN TYPES OF DISPUTES, YOU AGREE THAT DISPUTES BETWEEN YOU AND
+        ARTS VISTA WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU (WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION
+        LAWSUIT OR CLASS-WIDE ARBITRATION.\n\n\n
+        CHANGES TO TERMS OF USE\n\n
+        Arts Vista reserves the right, from time to time,
+        with or without notice to you, to change these Terms of Use, including the Privacy Policy, at our sole and absolute
+        discretion. The most current version of these Terms of Use can be reviewed by visiting our website and clicking on
+        ”Terms of Use“, located under ‘About’ at the top of each of our website pages.\n\n\n
+        PRIVACY AND COMMUNICATIONS PREFERENCES\n\nAny
+        personal information submitted through the Arts Vista service is subject to our PRIVACY POLICY, the terms of which are
+        incorporated herein. Please review our Privacy Policy to understand our practices. By using our Service, you are consenting to
+        receive certain communications from us. For example, Arts Vista may send you messages about new Arts Vista features, special
+        offers, promotional announcements and customer surveys via email or other methods. If you no longer want to receive certain
+        communications from us, simply access "Email preferences" on your ‘ Member Profile’ page and uncheck those items to unsubscribe.
+        Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account
+        transactions (e.g., change in password, confirmation e-mails and other transactional information) and information concerning
+        or related to our service. These communications are part of your relationship with Arts Vista and you receive them as part
+        of the Arts Vista membership. You agree that any notice, agreements, disclosure or other communications that we send to you
+        electronically will satisfy any legal communication requirements, including that such communications be in writing.\n\n\n
+        RIGHT TO TERMINATE\n\n
+        We reserve the right to terminate or restrict your use of our service, without notice, for any or no reason whatsoever.\n\n\n
+        FEATURES &amp; FUNCTIONALITY\n\n
+        Social Media\n
+        For members in certain countries, you"'"ll be able to take advantage of various social features as part of the Arts Vista service.
+        These features are designed to share information with others - the essence of social media. Please see our Privacy Policy to learn
+        more about the scope, extent and uses of information we gather.\n
+        BY USING ARTS VISTA, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE RELEASE OF INFORMATION ABOUT YOU TO OTHERS, VIA THE
+        ARTS VISTA SOCIAL MEDIA FEATURES, AND TO OTHER SOCIAL MEDIA SITES SUCH AS FACEBOOK, TWITTER, ETC. IF YOU DO NOT WANT INFORMATION
+        ABOUT YOU, INCLUDING INFORMATION SUCH AS YOUR ITINERARY, TO BE SHARED IN THIS MANNER, DO NOT USE THE SOCIAL MEDIA FEATURES.\n
+        We are continually making changes and improvements to the Arts Vista social features and, therefore, the available features and
+        information that can be shared may change from time to time. These changes may take place without notice to you and may not be
+        described in these Terms of Use.\n\n
+        Member Reviews\n
+        We permit you to post and share reviews of artists, performances and venues available through the Arts Vista service. You have a
+        choice to post reviews to either “Followers only” or to a public forum for anyone to view, including other members of, and visitors
+        to the Arts Vista service. We do not regularly review the content posted on our website; however, we reserve the right to reject,
+        remove or edit such content at anytime without notice. Reviews should not be posted that contain: harsh, profane or discriminatory
+        language; illegal, obscene, threatening, defamatory or otherwise objectionable content; URLs, phone numbers, mailing or e-mail addresses,
+        personal attacks on the artists or venues’ personnel; misleading information regarding the origin of the content; or a discussion of Arts
+        Vista policies or service. Use of the Reviews feature is for your personal, non-commercial use and is at your own option and risk. The
+        Reviews feature may change without notice to you and the degrees of associated information sharing and functionality may also change
+        without notice.
+        BY SUBMITTING A REVIEW PUBLICLY, YOU UNDERSTAND AND AGREE THAT YOU ARE CONSENTING TO THE RELEASE OF ALL INFORMATION PROVIDED IN YOUR
+        REVIEW TO ALL USERS OF THE ARTS VISTA SERVICE, INCLUDING ARTS VISTA AFFILIATED SERVICES AND COMPANIES. IF YOU DO NOT WANT YOUR REVIEWS
+        TO BE SHARED WITH ANYONE, DO NOT USE THE REVIEW FEATURE.\n\n
+        Following and Messaging\n
+        As an Arts Vista account member you are able to ‘Follow’ and ‘Be Followed’ by other members. The decision to follow another member, or to
+        agree (via the follow ‘consent’ feature) to be followed by another member is entirely at your discretion and any personal information you
+        choose to share with another member via the messaging feature is entirely your responsibility. Use of the Follow feature is for your
+        personal, non-commercial use and is at your own option and risk. The Follow feature may change without notice to you and the degrees of
+        associated information sharing and functionality may also change without notice.\n\n
+        Passwords\n
+        The member who created the Arts Vista account is referred to here as the Account Owner. The Account Owner has access and control over the
+        Arts Vista account. The Account Owner"'"s control is exercised through use of the Account Owner"'"s password and therefore to maintain exclusive
+        control, the Account Owner should not reveal the password to anyone.\n\n\n
+        APPLICATIONS\n\n
+        You may encounter third-party applications (including, without limitation, websites, widgets, software, or other software utilities)
+        ("Application(s)") that interact with the Arts Vista service. These Applications may import data related to your Arts Vista account and
+        activity and otherwise gather data from you. These Applications are provided solely as a convenience to you, and Arts Vista is not responsible
+        for and does not endorse the content of such Applications.
+        SUCH APPLICATIONS ARE OWNED OR OPERATED BY THIRD PARTIES THAT ARE NOT RELATED TO, ASSOCIATED WITH OR SPONSORED BY ARTS VISTA AND MAY NOT BE AUTHORIZED
+        FOR USE WITH OUR SERVICE IN ALL COUNTRIES.
+        Unless otherwise noted by Arts Vista on the Arts Vista website, Arts Vista is not responsible for and does not endorse the content of such
+        Applications. You will need to make your own independent judgment regarding your interaction with these Applications. If you choose, at your
+        sole and absolute discretion and risk, to use an Application, such Application may interact with, connect to or gather and/or pull information
+        from and to your Arts Vista account. By using such Applications, you acknowledge and agree to the following: (i) if you use an Application to
+        share information relating to your Arts Vista account, you are consenting to the information about your account being shared; (ii) your use of
+        an Application may cause personal identifying information to be publicly disclosed and/or associated with you, even if Arts Vista has not provided
+        such information; and (iii) your USE OF AN APPLICATION IS AT YOUR OWN OPTION AND RISK, and you will hold Arts Vista harmless for the sharing of
+        information relating to your Arts Vista account that results from your use of an Application. You must read all log-in boxes and other pop-up
+        boxes closely for notices about sharing your Arts Vista account information with, through, or by any other means identified on an Application.
+        In addition, the Application"'"s end user license agreement, terms of use, and/or any other documentation or materials designated by the
+        Application will govern your use of that Application. It is possible that you may be able to revoke an Application"'"s access to your Arts Vista
+        account at any time, but information shared prior to revocation may continue to be viewable within, or otherwise continue to be used by, the
+        Application depending on the policies of such Application. If you have any questions, concerns, complaints, or claims about the Applications,
+        you should contact the support or contact personnel of the Application and not Arts Vista, unless otherwise indicated by Arts Vista. ARTS VISTA
+        DISCLAIMS ALL LIABILITY ARISING FROM YOUR USE OF APPLICATIONS.\n\n\n
+        ACCOUNT ACCESS; IDENTITY PROTECTION\n\n
+        In order to provide you with ease of access to your account and to help administer the Arts Vista service, Arts Vista implements technology that
+        enables us to recognize you as the account holder and provide you with direct access to your account without requiring you to retype any password
+        or other user identification when you revisit the Arts Vista service. You, however, are also responsible for maintaining the confidentiality of
+        your account and password and for restricting access to your Arts Vista ready device. If you disclose your password to anyone or share your account
+        and/or devices with other people, you take full responsibility for their actions. In case you find that you"'"re a victim of identity theft and it
+        involves an Arts Vista account, you should notify us at user@artsvista.com\n\n\n
+        DISCLAIMERS OF WARRANTIES AND LIMITATIONS ON LIABILITY\n\n
+        THE ARTS VISTA SERVICE, INCLUDING OUR WEBSITE AND USER INTERFACES, AND ALL CONTENT ASSOCIATED THEREWITH, OR ANY OTHER FEATURES OR FUNCTIONALITIES
+        ASSOCIATED WITH THE ARTS VISTA SERVICE, ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. WE MAKE NO
+        REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THE ARTS VISTA SERVICE, OUR WEBSITE AND USER INTERFACES, AND ALL CONTENT AND SOFTWARE
+        ASSOCIATED THEREWITH. ARTS VISTA DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE ARTS VISTA SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE,
+        AND YOU AGREE THAT ARTS VISTA MAY ELIMINATE OR OTHERWISE MODIFY ANY OR ALL ASPECTS OF THE ARTS VISTA SERVICE, INCLUDING FEATURES, WITHOUT COMPENSATION
+        OR NOTICE TO YOU. ARTS VISTA SPECIFICALLY DISCLAIMS LIABILITY FOR THE USE OF APPLICATIONS, DEVICES, AND ARTS VISTA SOFTWARE (INCLUDING THEIR CONTINUING
+        COMPATIBILITY WITH OUR SERVICE). Without limiting the foregoing, we assume no liability or responsibility for any of the following: (i) errors or
+        omissions in the content delivered by the Arts Vista service; (ii) recommendations or advice of customer support; (iii) any failure or interruption in
+        the availability of the Arts Vista service, (iv) delivery and or display of any content contained on the Arts Vista website, user interfaces, or otherwise
+        through the Arts Vista service; and (vii) any losses or damages arising from the use of the content provided on the Arts Vista website, user interfaces,
+        or otherwise through the Arts Vista service. TO THE EXTENT ALLOWABLE BY LAW, WE DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, INCLUDING, FOR EXAMPLE,
+        WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. In addition, we do not represent or warrant
+        that the information accessible via our site is accurate, complete or current. We do not make any representations with respect to any content relating
+        to events presented via the Arts Vista service or the descriptions of any event performance or show on our website and user interfaces. We do not represent
+        or guarantee that your use of the Arts Vista service will be free from interruption, loss, corruption, attack, viruses, interference, hacking, or other
+        security intrusion and we disclaim any liability with respect thereto. No oral or written information or advice given by us or our authorized
+        representative shall create a warranty or otherwise constitute a representation binding upon Arts Vista or its affiliated parties.
+        IN NO EVENT SHALL ARTS VISTA, OR ITS DIRECTORS, OFFICERS OR EMPLOYEES BE LIABLE (JOINTLY OR SEVERALLY) TO YOU FOR PERSONAL INJURY OR ANY SPECIAL, INCIDENTAL,
+        INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, BUSINESS INTERRUPTION OR ANY OTHER
+        COMMERCIAL DAMAGES OR LOSS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE
+        USE OR PERFORMANCE OF THE ARTS VISTA SERVICE, INCLUDING OUR WEBSITE AND USER INTERFACES, AND ALL CONTENTS AND SOFTWARE ASSOCIATED THEREWITH, OR OTHERWISE
+        RELATED TO THE ARTS VISTA SERVICE, INCLUDING ANY FEATURES OR FUNCTIONALITIES ASSOCIATED THEREWITH. ARTS VISTA MAKES NO REPRESENTATIONS OR WARRANTIES CONCERNING
+        ARTS VISTA READY DEVICES OR THE COMPATIBILITY OF THE DEVICE WITH OUR SERVICE.\n\n\n
+        INTELLECTUAL PROPERTY\n\n
+        The Arts Vista service, including all content included on the Arts Vista website and user interfaces, or delivered to members as part of the service, including,
+        but not limited to, audio and video samplings of performances, behind-the-scenes features and interviews with creators and performers, text, graphics, logos,
+        designs, photographs, button icons, images, digital downloads, data compilations, and software, are the property of Arts Vista and /or its partners and content
+        providers, and are protected by Canadian and international copyright, trade secret or other intellectual property laws and treaties. The compilation of all
+        content and any software or other materials provided by Arts Vista on our website and user interfaces, or in connection with the Arts Vista service are the
+        exclusive property of Arts Vista and are protected by the copyright and trade secret laws in the provinces and territories of Canada and the United States in
+        which the Arts Vista service operates and by international treaty provisions. Content shall not be reproduced or used without express written permission from
+        Arts Vista. You agree to adhere to the restrictions set forth under "Limitations on Use."
+        Arts Vista reserves the right to terminate your membership hereunder if Arts Vista, in its sole and absolute discretion, believes that you are in violation of
+        Arts Vista restrictions against copying audio- and visual material provided to you by us, or other unauthorized copying or use of our proprietary content in
+        violation of the copyrights of Arts Vista. Arts Vista does not promote, foster or condone the copying of audio- and visual material or any other infringing activity.
+        The use of the Arts Vista service is solely for your personal and non-commercial use. If you find any allegedly infringing content on the Arts Vista website
+        and user interfaces, please contact us at admin@artsvista.com.\n\n\n
+        ENTERTAINMENT AND SERVICE CONTENT\n\n
+        Arts Vista reserves the right to display and promote arts and culture events or other information through our service, including our website and user interfaces,
+        to you in any manner we choose in our sole and absolute discretion. In addition, the Arts Vista service allows you to post reviews and ratings concerning the event
+        experiences displayed by us. Any opinions, advice, statements, services, offers, or other information that constitutes part of the content expressed or made
+        available by third parties through the Arts Vista service are those of members and content providers, such as exhibit and performance venues, and not of Arts Vista,
+        or its owners, management or employees. Under no circumstances shall Arts Vista, or its owners, management or employees be held liable for any loss or damage caused
+        by your reliance on information obtained through the Arts Vista service. It is your responsibility to evaluate the information, opinion, advice, or other content
+        available through the Arts Vista service.\n\n\n
+        USE OF INFORMATION SUBMITTED\n\n
+        Arts Vista is free to use any comments, information, ideas, concepts, reviews, ratings or techniques or any other material contained in any communication you may
+        send to us, including responses to questionnaires or through postings to the Arts Vista service, including the Arts Vista website and user interfaces, without further
+        compensation, acknowledgement or payment to you for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products and creating,
+        modifying or improving the Arts Vista service. Furthermore, by posting any feedback on our site, submitting feedback to us, or in responding to questionnaires, you
+        grant us a perpetual, worldwide, non-exclusive, royalty-free irrevocable license, including the right to sublicense such right, and right to display, use, reproduce
+        or modify the feedback submitted in any media, software or technology of any kind now existing or developed in the future.
+        Please note, Arts Vista does not accept unsolicited materials or ideas for use or publication, and is not responsible for the similarity of any of its content or programming
+        in any media to materials or ideas transmitted to Arts Vista. Should you submit any unsolicited materials or ideas, you do so with the understanding that no additional
+        consideration of any sort will be provided to you, and you are waiving any claim against Arts Vista and its affiliates regarding the use of such materials and ideas,
+        even if material or an idea is used by Arts Vista that is substantially similar to material or an idea you submit.\n\n\n
+        SERVICE TESTING\n\n
+        From time to time, we test various aspects of our Service, including our website, user interfaces, promotions, features, availability of performances or exhibitions, and we
+        reserve the right to include you in or exclude you from these tests without notice.\n\n\n
+        YOUR CONDUCT IN ACCESSING THE ARTS VISTA SERVICE\n\n
+        By accessing the Arts Vista service, including the Arts Vista website and user interfaces, you agree to use our service, including all features and functionalities associated
+        therewith, the website and user interfaces and all content and software associated therewith in accordance with all applicable laws, rules and regulations, including public
+        performance limitations or other restrictions on use of the service or content therein. In addition, you agree not to upload, post, e-mail or otherwise send or transmit any
+        material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or
+        hardware or telecommunications equipment associated with the Arts Vista service. You also agree not to impersonate any other person while using the Arts Vista service, conduct
+        yourself in a vulgar or offensive manner while using the Arts Vista service, upload and post content that violates any privacy rights and defames or otherwise violates any
+        legal right of any person or entity, or use the Arts Vista service for any unlawful purpose.
+        You agree that all of the foregoing restrictions apply not only to the Arts Vista service, but also to the servers and networks connected to any portions of the Arts Vista service
+        whether operated by Arts Vista or third parties (“Networks”). You agree not to interfere with Networks, violate any of the procedures, policies or regulations applicable to
+        Networks, use Networks in a way that harms or impairs anyone else’s use of Networks, use Networks to gain unauthorized access to any service, data, account or other Networks,
+        use Networks to falsify any protocol or information in the email header, footer, return path or any part of any communication, use Networks to send “spam” (i.e., unsolicited
+        bulk email or commercial messages) or items of a destructive or deceptive nature, or remove, modify, or tamper with any regulatory or legal notice or link that is incorporated
+        into Networks.\n\n\n
+        LIMITATIONS ON USE\n\n
+        Unless otherwise specified, the Arts Vista service, and any content viewed through our service, are for your personal and non-commercial use only and we grant you a limited, non
+        exclusive, non transferable, license to access the Arts Vista service for that purpose.
+        You may not download (other than through page caching necessary for personal use, or as otherwise expressly permitted by these Terms of Use), modify, copy, distribute, transmit,
+        display, perform, reproduce, duplicate, publish, license, create derivative works from, or offer for sale any information contained on, or obtained from or through, the Arts
+        Vista service, without our express written consent. You may not circumvent, remove, alter, deactivate, degrade or thwart any of the content protections in the Arts Vista service.
+        You may not frame or utilize any framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Arts Vista
+        without our express written consent. Any unauthorized use of the Arts Vista service or its contents will terminate the limited license granted by us and will result in the
+        cancellation of your membership and possible legal action.\n\n\n
+        LINKS AND PAGES\n\n
+        Some of the hyperlinks on the Arts Vista website may lead to other websites or other content that are not controlled by, or affiliated with Arts Vista. In addition, other websites
+        may link to the Arts Vista website, or Arts Vista may include links to the websites of organizations, including those that have associations with us through certain programs. Arts
+        Vista has not reviewed these websites and is not responsible for the offerings of any of these sites or the content, privacy policies, or terms of use of these websites or
+        Applications. YOU ACKNOWLEDGE AND AGREE THAT ARTS VISTA IS NOT RESPONSIBLE OR LIABLE FOR, AND DOES NOT OTHERWISE WARRANT, THE ACTIONS OF THESE THIRD PARTIES, THE PRODUCTS OR
+        CONTENTS ON THEIR WEBSITES, OR THE PERFORMANCE OF ANY APPLICATIONS AND DEVICES. These linked websites have separate and independent privacy statements, notices and terms of use,
+        which we recommend you read carefully.\n\n\n
+        CLAIMS OF COPYRIGHT INFRINGEMENT\n\n
+        It is the policy of Arts Vista to respect the intellectual property rights of others. Arts Vista does not condone the unauthorized reproduction or distribution of videos, photos
+        or other copyrighted content. If you believe your work has been reproduced or distributed in a way that constitutes copyright infringement or are aware of any infringing material
+        available through the Arts Vista service, please notify us by email at admin@artsvista.com.\n\n\n
+        GOVERNING LAW\n\n
+        These Terms of Use shall be governed by the laws of the Province of British Columbia and the federal laws of Canada.\n\n\n
+        ARBITRATION\n\n
+        For any dispute you have with Arts Vista, you agree to first contact us at admin@artsvista.com and attempt to resolve the dispute with us informally. If Arts Vista has not been
+        able to resolve the dispute with you informally, we each agree to resolve any claim, dispute, or controversy (excluding claims for injunctive or other equitable relief) arising
+        out of or in connection with or relating to these Terms by binding arbitration by the Canadian Arbitration Association under the Commercial Arbitration Rules and Supplementary
+        Procedures for Consumer Related Disputes then in effect for the Canadian Arbitration Association, except as provided herein. Unless you and Arts Vista agree otherwise, the
+        arbitration will be conducted in the Province of British Columbia, Canada. Nothing in this section shall prevent either party from seeking injunctive or other equitable relief
+        from the courts for matters related to data security, intellectual property or unauthorized access to our service. ALL CLAIMS MUST BE BROUGHT IN THE PARTIES"'" INDIVIDUAL CAPACITY,
+        AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE
+        PERSON"'"S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND ARTS VIST ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.\n\n\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tos">Terms Of Service</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_discovery">discovery</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
